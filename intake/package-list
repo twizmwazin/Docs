@@ -1,0 +1,12 @@
+com.sk89q.intake
+com.sk89q.intake.completion
+com.sk89q.intake.context
+com.sk89q.intake.dispatcher
+com.sk89q.intake.fluent
+com.sk89q.intake.parametric
+com.sk89q.intake.parametric.annotation
+com.sk89q.intake.parametric.argument
+com.sk89q.intake.parametric.binding
+com.sk89q.intake.parametric.handler
+com.sk89q.intake.util
+com.sk89q.intake.util.auth
