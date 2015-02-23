@@ -1,5 +1,6 @@
 org.bukkit
 org.bukkit.block
+org.bukkit.block.banner
 org.bukkit.command
 org.bukkit.command.defaults
 org.bukkit.configuration
