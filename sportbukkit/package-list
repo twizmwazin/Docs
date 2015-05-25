@@ -1,4 +1,5 @@
 org.bukkit
+org.bukkit.attributes
 org.bukkit.block
 org.bukkit.block.banner
 org.bukkit.command
